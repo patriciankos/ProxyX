@@ -43,12 +43,7 @@ public final class Main {
     }
 
     private static void printBanner() {
-        LOGGER.info("===========================================");
-        LOGGER.info("  Numdrassl - Hytale QUIC Proxy Server");
-        LOGGER.info("===========================================");
-        LOGGER.info("");
-        LOGGER.info("NOTE: Backend servers require the Bridge plugin.");
-        LOGGER.info("");
+
     }
 
     private static void initialize() throws Exception {
